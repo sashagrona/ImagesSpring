@@ -19,6 +19,13 @@
             <artifactId>spring-core</artifactId>
             <version>4.1.2.RELEASE</version>
         </dependency>
+             <!-- https://mvnrepository.com/artifact/com.github.jsimone/webapp-runner -->
+<dependency>
+    <groupId>com.github.jsimone</groupId>
+    <artifactId>webapp-runner</artifactId>
+    <version>8.5.27.0</version>
+</dependency>
+
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
